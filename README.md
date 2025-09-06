@@ -1,5 +1,5 @@
 ## Comparative Analysis of Linear Modeling Techniques: Frequentist, Bayesian, and Machine Learning Approaches in Predicting Housing Prices
-# This project is almost done and the repository will be updated once this project is entirely completed.
+### This project is almost done and the repository will be updated once this project is entirely completed.
 ## Overview
 This project explores and compares different modeling approaches for predicting housing prices using the Ames Housing dataset. Methods span frequentist, Bayesian, and machine learning techniques, with a focus on predictive accuracy, interpretability, and uncertainty quantification.
 
